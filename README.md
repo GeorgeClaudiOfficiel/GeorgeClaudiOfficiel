@@ -26,6 +26,6 @@ I'm a Full Stack Software Engineer and tech entrepreneur who loves building inte
 
 ### 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeClaudiOfficiel&show_icons=true&theme=radical&count_private=true)
+![Claudio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeClaudiOfficiel&show_icons=true&theme=radical&count_private=true)
 
 📫 **Let's Connect:** I'm always open to discussing tech startups, frontend architecture, or sharing trading insights!
