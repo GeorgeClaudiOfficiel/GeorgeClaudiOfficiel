@@ -1,6 +1,6 @@
 # Hi, I'm Eng Tech. Claudio! 👋
 
-I'm a Full Stack Software Engineer and tech entrepreneur who loves building interactive web experiences and exploring the intersection of code. Whether I'm crafting responsive user interfaces or mapping out a roadmap for my next venture, I'm always looking for ways to build impactful technology.
+I'm a Full Stack Software Engineer and tech entrepreneur who loves building interactive web experiences and exploring the endless possibilities of coding. Whether I'm crafting responsive user interfaces or mapping out a roadmap for my next venture, I'm always looking for ways to build impactful technology.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -26,6 +26,6 @@ I'm a Full Stack Software Engineer and tech entrepreneur who loves building inte
 
 ### 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeClaudiOfficiel&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeClaudiOfficiel&show_icons=true&theme=radical&count_private=true)
 
 📫 **Let's Connect:** I'm always open to discussing tech startups, frontend architecture, or sharing trading insights!
