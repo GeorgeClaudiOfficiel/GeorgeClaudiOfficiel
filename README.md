@@ -10,6 +10,7 @@ I'm a Full Stack Software Engineer and tech entrepreneur who loves building inte
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend & Databases:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,8 +28,8 @@ I'm a Full Stack Software Engineer and tech entrepreneur who loves building inte
 
 ### 🧸 [Totoz Wellness - Kids Corner] (#) *(Frontend Engineer)*
 
-> An initiative utilizing technology to create awareness around Children's Mental Health. I engineered the interactive "Kids Corner" feature to provide an engaging, safe digital environment for children.
-> **Tech Stack:** `React` • `TypeScript` • `Phaser`
+> An initiative utilizing technology to create awareness around Children's Mental Health. I engineered the interactive features to provide an engaging, safe digital environment for children.
+> **Tech Stack:** `React` • `TypeScript` • `NodeJS`
 
 ### 🌍 [Impakto by Nova Minds] (#) *(Team Lead & Software Engineer)*
 
@@ -45,3 +46,7 @@ I'm a Full Stack Software Engineer and tech entrepreneur who loves building inte
 ![Claudio's GitHub Stats](https://github-readme-stats-eight-fawn-73.vercel.app/api?username=GeorgeClaudiOfficiel&show_icons=true&theme=radical&count_private=true)
 
 📫 **Let's Connect:** I'm always open to discussing tech startups, frontend architecture, or sharing trading insights!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgeclaudiofficiel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-claudio-b610b7260/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/georgeclaudi0)
